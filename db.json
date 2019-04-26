@@ -1,21 +1,18 @@
 {
     "product": {
-		"CSS_ProductName__c": "SV10 Animal UK Ir/SNk/Ti",
+	"CSS_ProductName__c": "SV10 Animal UK Ir/SNk/Ti",
         "CSS_MachineFriendlyName__c": "Dyson V8 Animal",
         "CSS_SKUNumber__c": "164537-01",
-		"stockBand": "H",
+	"stockBand": "H",
         "isWebProduct": true,
-		"finishedGoods": true,
-		
-        "stock": {
+	"finishedGoods": true,
+	"stock": {
             "stockLevel": 0,
             "stockLevelStatus": "outOfStock"
         },
-        
         "UnitPrice": {
             "formattedNetPrice": "291,66 €",
             "netPrice": 291.66
         }
-        
-    }
+     }
 }
