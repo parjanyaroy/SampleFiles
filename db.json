@@ -3,7 +3,7 @@
   "response": {
     "outputSpeech": {
       "type": "PlainText",
-      "text": "Plain text string to speak"
+      "text": "This is a sample text"
     }
   }
 }
