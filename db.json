@@ -9,6 +9,5 @@
       "text": "Plain text string to speak",
       "playBehavior": "REPLACE_ENQUEUED"      
     }
-    "shouldEndSession": true
   }
 }
